@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 const SkillBar = ({ data, categories }) => {
   const { category, competency, title } = data;
 
-  // TODO: Consider averaging colors
   const titleStyle = {
     background: categories
       .filter((cat) => category.includes(cat.name))
@@ -17,10 +16,14 @@ const SkillBar = ({ data, categories }) => {
   };
 
   return (
-    <div className="skillbar clearfix">
-      <div className="skillbar-title" style={titleStyle}><span>{title}</span></div>
-      <div className="skillbar-bar" style={barStyle} />
-      <div className="skill-bar-percent">{competency} / 5</div>
+    <div>
+      <div className="skillbar-title" style={{marginLeft: '11%'}}><span>{title}</span></div>
+      <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column'}}>
+        <div className="skillbar clearfix">
+          <div className="skillbar-bar" style={barStyle} />
+          <div className="skill-bar-percent">{competency} / 5</div>
+        </div>
+      </div>
     </div>
   );
 };

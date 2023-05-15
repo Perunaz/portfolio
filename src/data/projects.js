@@ -1,47 +1,36 @@
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Android Movie App',
+    subtitle: 'Android development in period 1.3 of college',
+    image: '/images/projects/movieapp.jpg',
+    date: '2021-02-00',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built an app that shows popular movies from The Movie Database.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Animal Crossing Site',
+    subtitle: 'Client site web development in period 2.2 of college',
+    image: '/images/projects/mean.png',
+    date: '2021-10-00',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Made a full stack web application with the MEAN stack and NEO4J.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'File Management System',
+    subtitle: 'First internship at Bakker Sliedrecht',
+    link: 'https://www.bakkersliedrecht.com/',
+    image: '/images/projects/bakkersliedrecht.png',
+    date: '2022-08-00',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Made a file management system for my internship at Bakker Sliedrecht with a MEAN stack.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Datascience portfolio',
+    subtitle: 'Portfolio for datascience in period 2.3 of college',
+    image: '/images/projects/datascience.png',
+    date: '2022-02-00',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Created a portfolio of jupyter notebooks written in python.',
   },
 ];
 
