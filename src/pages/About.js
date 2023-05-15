@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Markdown from 'markdown-to-jsx';
 
 import Main from '../layouts/Main';
+import Gradient from '../components/Template/Gradient';
 
 const About = () => {
   const [markdown, setMarkdown] = useState('');
@@ -25,6 +26,7 @@ const About = () => {
       title="About"
       description="Learn about Caelan van Eijnsbergen"
     >
+      <Gradient colors={['#43c6ac', '#191654']}/>
       <article className="post markdown" id="about">
         <header>
           <div className="title">

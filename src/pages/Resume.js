@@ -10,6 +10,7 @@ import Skills from '../components/Resume/Skills';
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
 import { skills, categories } from '../data/resume/skills';
+import Gradient from '../components/Template/Gradient';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
@@ -23,6 +24,7 @@ const Resume = () => (
     title="Resume"
     description="Caelan van Eijnsbergens Resume. IT student, Inbisco"
   >
+    <Gradient colors={['#43c6ac', '#191654']}/>
     <article className="post" id="resume">
       <header>
         <div className="title">

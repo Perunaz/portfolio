@@ -2,12 +2,14 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import Gradient from '../components/Template/Gradient';
 
 const Index = () => (
   <Main
     description={"Caelan van Eijnsbergens personal website. From Sliedrecht studying in Breda at Avans University, "
     + 'Junior Software Developer at Inbisco'}
   >
+    <Gradient colors={['#43c6ac', '#191654']}/>
     <article className="post" id="index">
       <header>
         <div className="title">

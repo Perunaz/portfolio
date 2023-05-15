@@ -12,6 +12,8 @@
 		border: solid 1px _palette(border);
 		margin: 0 0 _size(section-spacing) 0;
 		position: relative;
+		border-bottom-left-radius: 25px;
+		border-bottom-right-radius: 25px;
 
 		> header {
 			@include vendor('display', 'flex');

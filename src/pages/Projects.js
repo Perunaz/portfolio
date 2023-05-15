@@ -5,12 +5,14 @@ import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
 import data from '../data/projects';
+import Gradient from '../components/Template/Gradient';
 
 const Projects = () => (
   <Main
     title="Projects"
     description="Learn about Caelan van Eijnsbergens projects."
   >
+    <Gradient colors={['#43c6ac', '#191654']}/>
     <article className="post" id="projects">
       <header>
         <div className="title">
