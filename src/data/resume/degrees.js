@@ -1,15 +1,9 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  },
-  {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Avans University',
+    degree: 'Bachelor of Information and Communication Technology - B ICT, Informatica (Software engineering) / Hogere opleiding Software engineer',
+    link: 'https://www.avans.nl/studeren/opleidingen/informatica/voltijd',
+    year: '2020 - 2024',
   },
 ];
 
