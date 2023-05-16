@@ -22,8 +22,8 @@ const About = () => {
         </header>
         <div>
           <h1>Intro</h1>
-            <p>Hi, I'm Caelan. I am 21 years old and a 3rd year student at Avans University and a Junior Software Developer at Inbisco.
-              I'm a driven and creative person that likes programming a lot.</p>
+            <p>Hi, I am Caelan. I am 21 years old and a 3rd year student at Avans University and a Junior Software Developer at Inbisco.
+              I am a driven and creative person that likes programming a lot.</p>
           <h1>I like</h1>
             <p className='bulletPoint'>Working out</p>
             <p className='bulletPoint'>Waterpolo</p>
@@ -34,7 +34,7 @@ const About = () => {
             <p className='bulletPoint'>Traveling</p>
             <p className='bulletPoint'>Coding (of course)</p>
           <h1>Travel / Geography</h1>
-            <p className='bulletPoint'>I am from the Netherlands.</p>
+            <p className='bulletPoint'>I am from The Netherlands.</p>
             <p className='bulletPoint'>Top 3 best trips I've made were to Thailand, Greece and Norway</p>
             <p className='bulletPoint'>I really want to travel to North America or Japan in the future.</p>
           <h1>Music genres I like</h1>
