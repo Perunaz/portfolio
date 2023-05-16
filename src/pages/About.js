@@ -42,7 +42,7 @@ const About = () => {
             <Badge color={'#FF8479'}>Phonk</Badge>
             <Badge color={'#43C6AC'}>Vaporwave</Badge>
             <Badge color={'#3CB9FA'}>Pop</Badge>
-          <h1>Top 3 Games everyone should play in my opinion</h1>
+          <h1>Top 3 Games everyone should play</h1>
             <p className='bulletPoint'>Portal 2</p>
             <p className='bulletPoint'>Red Dead Redemption 2</p>
             <p className='bulletPoint'>God of War 4</p>
