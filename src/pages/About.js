@@ -39,6 +39,7 @@ const About = () => {
             <p className='bulletPoint'>I really want to travel to North America or Japan in the future.</p>
           <h1>Music genres I like</h1>
             <Badge color={'#FA3C4C'}>Hardcore</Badge>
+            <Badge color={'#485861'}>Techno</Badge>
             <Badge color={'#FF8479'}>Phonk</Badge>
             <Badge color={'#43C6AC'}>Vaporwave</Badge>
             <Badge color={'#3CB9FA'}>Pop</Badge>
