@@ -31,7 +31,7 @@ const skills = [
   },
   {
     title: 'Express.JS',
-    competency: 3,
+    competency: 5,
     category: ['Frameworks, Platforms and Libraries'],
   },
   {
