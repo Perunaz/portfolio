@@ -51,7 +51,7 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 3,
+    competency: 5,
     category: ['Languages'],
   },
   {

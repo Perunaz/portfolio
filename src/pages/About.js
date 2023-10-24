@@ -22,7 +22,7 @@ const About = () => {
         </header>
         <div>
           <h1>Intro</h1>
-            <p>Hi, I am Caelan. I am 21 years old and a 3rd year student at Avans University and a Junior Software Developer at Inbisco.
+            <p>Hi, I am Caelan. I am 21 years old and a 4th year student at Avans University and a Junior Software Developer at Inbisco.
               I am a driven and creative person that likes programming a lot.</p>
           <h1>I like</h1>
             <p className='bulletPoint'>Working out</p>
