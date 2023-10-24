@@ -11,7 +11,7 @@ const skills = [
   },
   {
     title: 'React',
-    competency: 4,
+    competency: 5,
     category: ['Frameworks, Platforms and Libraries'],
   },
   {
@@ -66,7 +66,7 @@ const skills = [
   },
   {
     title: '.NET',
-    competency: 3,
+    competency: 5,
     category: ['Frameworks, Platforms and Libraries'],
   },
   {
