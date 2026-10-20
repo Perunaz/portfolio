@@ -6,8 +6,8 @@ import Gradient from '../components/Template/Gradient';
 
 const Index = () => (
   <Main
-    description={"Caelan van Eijnsbergens personal website. From Sliedrecht studying in Breda at Avans University, "
-    + 'Junior Software Developer at Inbisco'}
+    description={"Caelan van Eijnsbergens personal website. From Sliedrecht studied in Breda at Avans University, "
+    + 'Software Developer at Inbisco'}
   >
     <Gradient colors={['#43c6ac', '#191654']}/>
     <article className="post" id="index">

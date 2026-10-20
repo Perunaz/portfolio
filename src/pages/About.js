@@ -23,7 +23,7 @@ const About = () => {
         <div>
           <h1>Intro</h1>
             <p>Hi, I&apos;m Caelan. I am 24 years old and studied at <a href="https://www.avans.nl/international">Avans University </a>
-        and a Junior Software Developer at <a href="https://www.inbisco.nl/">Inbisco</a>.</p>
+        and am a Software Developer at <a href="https://www.inbisco.nl/">Inbisco</a>.</p>
           <h1>I like</h1>
             <p className='bulletPoint'>Working out</p>
             <p className='bulletPoint'>Waterpolo</p>
